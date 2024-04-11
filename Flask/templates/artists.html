@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h1>Artists</h1>
+    <table class="w3-table-all">
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+        </tr>
+        {% for artist in artists %}
+            <tr>
+                <td>{{ artist[0] }}</td>
+                <td>{{ artist[1] }}</td>
+            </tr>
+        {% endfor %}
+    </table>
+{% endblock %}
