@@ -8,7 +8,7 @@ The main Tutorial is in the Tutorial Folder.
 The Database we'll be playing with is here:  https://www.sqlitetutorial.net/wp-content/uploads/2018/03/chinook.zip
 
 
-## The Databse Tutorial
+## The Database Tutorial
 For this tutorial we'll use the chinook database.  
 You can get it here: https://www.sqlitetutorial.net/wp-content/uploads/2018/03/chinook.zip  
   
